@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my first GUI app<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning C++
+🔭 I’m currently working on an E-Commerce website<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning PHP and C++
 
 
 ## 🌐 Socials:
