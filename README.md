@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-Commerce website<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning PHP and C++
+🔭 Currently working on a Messaging Application<br>👯 Looking to collaborate on any web project<br>🌱 At the present time I am learning Next.js and improving in React
 
 
 ## 🌐 Socials:
